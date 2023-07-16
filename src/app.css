@@ -1,0 +1,46 @@
+.globe{
+    display: flex;
+
+}
+.glob{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    
+   justify-content: center;
+   align-items: center;
+   background: rgb(219, 181, 255);
+}
+
+.bg{
+    margin-left: 35px;
+}
+button{
+    width: 60px;
+    margin-left: 2px;
+    height: 20px;
+}
+h1{
+    margin: 0;
+}
+.flexx{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+.newColumn{
+    display: flex;
+    margin-top: 20px;
+}
+.add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.d-flex{
+    display: flex;
+}
